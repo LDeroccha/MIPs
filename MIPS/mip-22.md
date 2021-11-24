@@ -12,6 +12,8 @@ created: 2021-11-16
 In order to foster & reward mStable Save product utilization, it is proposed to launch a B2B Referral Program called the mStable Alliance program.
 
 Rewards would originate from the protocol fees and be then proportionally distributed to partners according to the new liquidity they deposit into Save on a monthly basis. Referrals can be tracked on-chain by adding a referral address in the Save contract
+klnzknvozknv
+
 
 To incentivize even more the program, mStable would offer exclusive rewards to partners
 
